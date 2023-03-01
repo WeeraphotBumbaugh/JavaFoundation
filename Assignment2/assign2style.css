@@ -1,0 +1,11 @@
+.product {
+  background-color: gray;
+  width: 200px;
+  height: 200px;
+  display: block;
+  justify-content: column;
+  text-align: center;
+  border-left-style: dashed;
+  margin-bottom: 20px;
+  padding-top: 10px;
+}

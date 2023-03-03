@@ -1,6 +1,23 @@
 body {
-  background-color: blue;
-}
-.student {
   background-color: gray;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+li {
+  font-size: 20px;
+}
+h2,
+#results-div {
+  display: flex;
+  justify-content: center;
+}
+#results {
+  font-size: 22px;
+  position: absolute;
+  margin-top: 30px;
+}
+img {
+  width: 400px;
 }
